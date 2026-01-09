@@ -11,4 +11,11 @@ This dataset contains real-world clinical attributes 🩺 used to analyze and pr
 🔍 Feature importance analysis
 🧠 Medical data science practice
 
+## Project includes visualisations of:
+###        high-level summaries
+###        Demographic Risk
+###        Clinical Indicators
+###        Symptom Analysis
+
+
 (c) Taken from kaggle
