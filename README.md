@@ -12,7 +12,7 @@ This dataset contains real-world clinical attributes 🩺 used to analyze and pr
 🧠 Medical data science practice
 
 ## Project includes visualisations of:
-###        high-level summaries
+###        High-level summaries
 ###        Demographic Risk
 ###        Clinical Indicators
 ###        Symptom Analysis
