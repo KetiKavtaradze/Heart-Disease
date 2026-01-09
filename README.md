@@ -18,4 +18,4 @@ This dataset contains real-world clinical attributes  used to analyze and predic
 ###        Symptom Analysis
 
 
-(c) Taken from kaggle
+Datasets: https://www.kaggle.com/datasets/neurocipher/heartdisease/data
